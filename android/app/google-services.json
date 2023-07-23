@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969303122934",
+    "project_id": "textfire-221bf",
+    "storage_bucket": "textfire-221bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969303122934:android:2074608b877c9d7765ddd7",
+        "android_client_info": {
+          "package_name": "it.ronaldocms.textfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969303122934-j7v7i6k1cnec5lqk3er0lh53sqfa9r3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Mq_jRnh04VOBjYCr38YcdypiD5Fg5zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969303122934-j7v7i6k1cnec5lqk3er0lh53sqfa9r3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
